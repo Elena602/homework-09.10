@@ -9,8 +9,8 @@ while (index < count)
 }
 Console.WriteLine();
 
-double min = 0;
-double max = 0; 
+double min = array[0];
+double max = array[0]; 
 for (index = 0; index < count; index++)
 {
     if (min > array[index])
