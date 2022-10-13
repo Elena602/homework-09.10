@@ -1,0 +1,15 @@
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.csproj.AssemblyReference.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.AssemblyInfo.cs
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\bin\Debug\net6.0\work7.exe
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\bin\Debug\net6.0\work7.deps.json
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\bin\Debug\net6.0\work7.runtimeconfig.json
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\bin\Debug\net6.0\work7.dll
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\bin\Debug\net6.0\work7.pdb
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.dll
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\refint\work7.dll
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.pdb
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\work7.genruntimeconfig.cache
+C:\Users\Елена\Desktop\дз\с #\dz\homework 09.10\work7\obj\Debug\net6.0\ref\work7.dll
